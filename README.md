@@ -1,4 +1,4 @@
-## Prazer! Pedro Henrique ##
+## Prazer! Pedro Henrique Campos ##
 
 - 🔭 Saindo do mundo FIRST 
 - 🌱 Estudando JavaScript 
