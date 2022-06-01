@@ -1,7 +1,7 @@
 ## Prazer! Pedro Henrique Campos ##
 
-- 🔭 Saindo do mundo FIRST 
-- 🌱 Estudando Desenvolvimento Web
+- 🔭 Dentro do mundo FIRST 
+- 🌱 Estudando Java
 - ⚡ Apaixonado por CS:GO 
 
 <div align="center">
