@@ -1,7 +1,7 @@
 ## Prazer! Pedro Henrique Campos ##
 
 - 🔭 Dentro do mundo FIRST 
-- 🌱 Estudando Java
+- 🌱 Estudando Java, javascript
 - ⚡ Apaixonado por CS:GO 
 
 <div align="center">
