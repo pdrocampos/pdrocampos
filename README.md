@@ -1,8 +1,8 @@
 ## Prazer! Pedro Henrique Campos ##
 
-- 🔭 Dentro do mundo FIRST 
+- 🔭 There´s no place like 127.0.0.1
 - 🌱 Cursando Ciência da Computação
-- ⚡ Faço de tudo um pouco
+- ⚡ Eclético 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/pedro-henrique-b467b8240/)
