@@ -7,20 +7,20 @@
 
 <!-- ============ BLOCO TERMINAL (o "herói" do perfil) ============ -->
 ```bash
-pedro@santodigital:~$ whoami
+pedro@pdrocampos:~$ whoami
 > Pedro Henrique Campos · Machine Learning Engineer (Junior) · 3x Google Cloud Certified
 
-pedro@santodigital:~$ cat sobre.md
+pedro@pdrocampos:~$ cat sobre.md
 > ML clássico à IA generativa — do dado bruto ao modelo em produção no GCP.
 > Carro-chefe: sistemas de agentes com Google ADK (A2A · MCP).
 > Também construo aplicações full-stack (front + back) com React e Python.
 > Autor do curso "Google ADK: orquestrar agentes de IA com Python" (Alura).
 > Mentor de robótica FIRST · Petrolina-PE, Brasil.
 
-pedro@santodigital:~$ cat estudando.md
+pedro@pdrocampos:~$ cat estudando.md
 > Aprofundando desenvolvimento front-end e back-end.
 
-pedro@santodigital:~$ ls ~/now
+pedro@pdrocampos:~$ ls ~/now
 alura/google-adk-course     multi-agent-systems/     ml-pipelines-gcp/
 ```
 
