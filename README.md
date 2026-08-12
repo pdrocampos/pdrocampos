@@ -57,8 +57,8 @@ alura/google-adk-course     multi-agent-systems/     ml-pipelines-gcp/
 <br/>
 
 <!-- ============ STATS (mesma paleta) ============ -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pdrocampos&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrocampos&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="top langs" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pdrocampos&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9" alt="stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pdrocampos&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="top langs" />
 
 <!-- ============ SNAKE ANIMATION (gerada pelo GitHub Actions) ============ -->
 <picture>
